@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Álvaro Miguel
+# Luana Pereira Alves
 
-**`Desenvolvedor FullStack`**
+**`Estudante Etec em Desenvolvimento de Sistemas e Informatica para Internet`**
 
-Me chamo Álvaro Miguel, tenho 18 anos e sou natural do Goiás. Concluí o ensino médio em escola publica e durante ele realizeo o curso técnico em Informática para Internet na ETEC. Armando José Farinazzo em Fernandópolis-SP. Atualmente, estou cursando Sistemas de Informação no IFSP-Votuporanga. Sou apaixonado por tecnologia, compartilho meus conhecimentos e desafios no perfil do LinkedIn [Álvaro Miguel](https://www.linkedin.com/in/álvaro-miguel-1b4606331/).
+Me chamo Luana Pereira Alves, tenho 16 anos e sou natural de São Paulo. Estuno na ETEC de Fernandópolis em ensino médio integrado com Informática para Internet (infonet) e faço curso técnico anoite em Desenvolvimento de Sistemas. Gosto bastante da area de tecnologia, e pretendo seguir na area futuramente.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/álvaro-miguel-1b4606331/">
